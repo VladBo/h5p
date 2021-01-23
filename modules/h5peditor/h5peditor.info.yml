@@ -1,0 +1,8 @@
+name: H5P Editor
+type: module
+description: 'Create and modify interactive HTML5 packages on your site.'
+package: H5P
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - h5p:h5p
